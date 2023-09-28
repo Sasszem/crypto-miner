@@ -1,0 +1,9 @@
+{
+    "title": "<EXAMPLE challenge>",
+    "flag_qpa": "SECURITEAM{hehe}",
+    "flag_hacktivity": "SECURITEAM{hehehe}",
+    "short_description": "<a feladathoz tartozó rövid leírás>",
+    "tags": ["pwn", "reverse", "misc", "stego", "forensics", "web"],
+    "level": 1,
+    "points": 100
+}

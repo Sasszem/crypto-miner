@@ -1,0 +1,1 @@
+If anything exists inside wargame_public, it will be released as an asset to the challenge.
