@@ -1,9 +1,9 @@
 {
-    "title": "<EXAMPLE challenge>",
+    "title": "Crypto Miner",
     "flag_qpa": "SECURITEAM{flag_qpa}",
     "flag_hacktivity": "SECURITEAM{flag_hacktivity}",
-    "short_description": "<a feladathoz tartozó rövid leírás>",
-    "tags": ["pwn", "reverse", "misc", "stego", "forensics", "web"],
+    "short_description": "This game is for kids, isn't it?",
+    "tags": ["reverse", "hardware", "crypto"],
     "level": 1,
-    "points": 100
+    "points": 600
 }

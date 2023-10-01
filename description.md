@@ -1,4 +1,5 @@
-# Example challenge
+# Crypto Miner
 
-This is an example description, the players will see this when they click on a challenge  
-It may contain **MD** formatting including [links](https://example.com)
+I found this old contraption that claims to be a flag decryptor... It's old and slow, but supoosadly I only have to push the button enough times and I get my flag. Sadly, part of the display is also missing... Can you get the flag for me?
+
+Build with the TWOREDDIL (TM) verilog synthesizer.
